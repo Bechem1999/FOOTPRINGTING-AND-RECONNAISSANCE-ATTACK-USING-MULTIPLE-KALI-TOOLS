@@ -272,7 +272,7 @@ This experience helped me understand not only **how to solve the immediate probl
 
 > **Key Lesson:** AI was used as a learning and troubleshooting aid, while the commands were tested and verified in my own Kali Linux lab environment.
 
-<img width="1562" height="802" alt="output saved in a text file" src="https://github.com/user-attachments/assets/8c1bae30-452f-4052-932a-e7f4abbcb6f3" 
+<img width="1562" height="802" alt="output saved in a text file" src="https://github.com/user-attachments/assets/8c1bae30-452f-4052-932a-e7f4abbcb6f3"> 
 
   # 🔐 Security & Ethical Use
 This lab is strictly for education purposes only.
