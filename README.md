@@ -271,3 +271,20 @@ I also learned to combine the reconnaissance commands with output redirection so
 This experience helped me understand not only **how to solve the immediate problem**, but also how to independently troubleshoot Linux command-line challenges using AI as a learning and problem-solving assistant.
 
 > **Key Lesson:** AI was used as a learning and troubleshooting aid, while the commands were tested and verified in my own Kali Linux lab environment.
+
+<img width="1562" height="802" alt="output saved in a text file" src="https://github.com/user-attachments/assets/8c1bae30-452f-4052-932a-e7f4abbcb6f3" 
+
+  # 🔐 Security & Ethical Use
+This lab is strictly for education purposes only.
+
+ # 👤 Author
+  Atemlefac Nkafu Bechem
+  
+  Cybersecurity Engineer
+
+LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
+
+# 📌 Project Information
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 02 | **Project:** Footprinting and reconnaissance attack using multiple kali tools | **Repository:** GitHub
+
+
