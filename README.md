@@ -98,9 +98,28 @@ Document reconnaissance results for further analysis
                        ▼
              RECONNAISSANCE PROFILE
 
-## 🧪 Lab Environment
+# 🧪 Lab Environment
 
-**Operating System:** Kali Linux  
+**Operating System: ** Kali Linux
 **Assessment Type:** Footprinting / Reconnaissance  
 **Target:** Authorized training/lab domain  
 **Purpose:** Educational cybersecurity and ethical hacking
+
+#🔹 Task 1: WHOIS Enumeration
+
+# Objective
+
+Obtain publicly available domain registration information, including registrar information, registration dates and name servers.
+
+Command
+whois <target-domain>
+Information Gathered
+
+WHOIS can provide information such as:
+
+Domain registrar
+Registration date
+Expiration date
+Name servers
+Domain status
+Administrative or technical information where publicly available
