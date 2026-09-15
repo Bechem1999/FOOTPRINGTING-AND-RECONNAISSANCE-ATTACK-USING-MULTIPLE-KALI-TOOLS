@@ -53,3 +53,54 @@ Document reconnaissance results for further analysis
 | `wafw00f` | Detects Web Application Firewalls |
 | `dnsrecon` | Enumerates DNS records and infrastructure |
 
+## 🧠 Skills Demonstrated
+
+| Category | Skills |
+|---|---|
+| 🐧 **Linux** | Kali Linux, Linux terminal, command-line operations |
+| 🔎 **Reconnaissance** | Footprinting, passive information gathering, target profiling |
+| 🌐 **DNS Analysis** | Domain resolution, DNS records, name servers, mail records |
+| 🕸️ **Web Reconnaissance** | Web technology fingerprinting and HTTP analysis |
+| 🛡️ **WAF Analysis** | Web Application Firewall detection |
+| 📊 **Technical Analysis** | Output interpretation, evidence collection and documentation |
+| 📝 **Reporting** | Screenshots, saved outputs and structured technical reporting |
+| ⚖️ **Ethical Hacking** | Authorized reconnaissance and controlled security testing |
+
+## 🔬 Methodology
+
+```text
+                 TARGET DOMAIN
+                       │
+                       ▼
+                  ┌─────────┐
+                  │  WHOIS  │
+                  └────┬────┘
+                       ▼
+                 ┌───────────┐
+                 │  WHATWEB  │
+                 └─────┬─────┘
+                       ▼
+                 ┌───────────┐
+                 │ NSLOOKUP  │
+                 └─────┬─────┘
+                       ▼
+                 ┌───────────┐
+                 │   CURL    │
+                 └─────┬─────┘
+                       ▼
+                 ┌───────────┐
+                 │ WAFW00F   │
+                 └─────┬─────┘
+                       ▼
+                 ┌───────────┐
+                 │ DNSRECON  │
+                 └─────┬─────┘
+                       ▼
+             RECONNAISSANCE PROFILE
+
+## 🧪 Lab Environment
+
+**Operating System:** Kali Linux  
+**Assessment Type:** Footprinting / Reconnaissance  
+**Target:** Authorized training/lab domain  
+**Purpose:** Educational cybersecurity and ethical hacking
