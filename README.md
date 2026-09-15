@@ -98,9 +98,10 @@ Document reconnaissance results for further analysis
                        ▼
              RECONNAISSANCE PROFILE
 
-# 🧪 Lab Environment
 
-**Operating System: ** Kali Linux
+## 🧪 Lab Environment
+
+**Operating System:** Kali Linux  
 **Assessment Type:** Footprinting / Reconnaissance  
 **Target:** Authorized training/lab domain  
 **Purpose:** Educational cybersecurity and ethical hacking
