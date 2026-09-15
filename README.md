@@ -42,11 +42,14 @@ Identify whether a Web Application Firewall is present
 Enumerate publicly available DNS records
 Document reconnaissance results for further analysis
 
-# 🛠️ Tools Used
-# Tool	          Purpose
-whois	            Retrieves domain registration and ownership information
-whatweb	          Identifies web technologies, CMS, plugins and server information
-nslookup          Resolves domain names to IP addresses
-curl	            Examines HTTP response headers
-wafw00f	          Detects Web Application Firewalls
-dnsrecon	        Enumerates DNS records and infrastructure
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| `whois` | Retrieves domain registration and ownership information |
+| `whatweb` | Identifies web technologies, CMS, plugins and server information |
+| `nslookup` | Resolves domain names to IP addresses |
+| `curl` | Examines HTTP response headers |
+| `wafw00f` | Detects Web Application Firewalls |
+| `dnsrecon` | Enumerates DNS records and infrastructure |
+
