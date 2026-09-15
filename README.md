@@ -118,9 +118,32 @@ Information Gathered
 
 WHOIS can provide information such as:
 
-Domain registrar
-Registration date
-Expiration date
-Name servers
-Domain status
-Administrative or technical information where publicly available
+- Domain registrar
+- Registration date
+- Expiration date
+- Name servers
+- Domain status
+- Administrative or technical information where publicly available
+
+<img width="1317" height="805" alt="whois" src="https://github.com/user-attachments/assets/7e8f0030-0df0-4807-af2f-20bb307ebda4" />
+
+# 🔹 Task 2: Web Technology Fingerprinting with WhatWeb
+# Objective
+
+Identify technologies used by the target website.
+
+Command
+whatweb <target-domain>
+Information Gathered
+
+WhatWeb can help identify:
+
+- Web server technologies
+- Content Management Systems
+- Plugins
+- Frameworks
+- Software versions
+- IP-related information
+- Other publicly exposed technologies
+
+  <img width="1287" height="252" alt="whatweb command" src="https://github.com/user-attachments/assets/5a3bb2dd-5ac8-4c07-8c51-bf6e54519686" />
